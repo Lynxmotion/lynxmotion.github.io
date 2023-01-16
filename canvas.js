@@ -581,7 +581,7 @@ function setup(){
 
   //Robot Model
   if (!mobile) {
-    loadRobotModel()
+    loadRobotModel();
     robotAnimations();
   }
 
